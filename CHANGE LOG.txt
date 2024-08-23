@@ -1,0 +1,5 @@
+//----------------V1.8-----------
+-> Joystick interface added (Generic PS2) joystick.
+//----------------V1.8.2---------
+-> CHanged Autoplotter params in GpsMarkerManager.java to Vertical=180 & HORZ=330.
+-> Autolanding params increasedby 50 m - AutoLandingCalculator.java
